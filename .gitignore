@@ -1,0 +1,9 @@
+*
+!.gitignore
+!script/
+!script/**/
+
+!script/*.py
+!script/*.ipynb
+
+
